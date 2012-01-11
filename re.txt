@@ -1,0 +1,2 @@
+(ending-in-aa "अ|आ")
+(conjunct-verbs "(\\S*)_\\[ \(NN|JJ\) \\] (\\S*)_\\[ VM \\]")
